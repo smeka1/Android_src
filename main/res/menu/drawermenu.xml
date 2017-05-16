@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Legislators"
+          android:id="@+id/nav_legis"
+          android:icon="@drawable/job_search"/>
+
+    <item android:title="Bills"
+          android:id="@+id/nav_bills"
+          android:icon="@drawable/fa_bills"/>
+
+    <item android:title="Committees"
+          android:id="@+id/nav_comm"
+          android:icon="@drawable/fa_comm"/>
+
+    <item android:title="Favorites"
+        android:id="@+id/nav_favs"
+        android:icon="@drawable/fa_fav"/>
+
+
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_abtme"
+                android:title="About Me"
+                />
+        </menu>
+    </item>
+
+
+
+</menu>

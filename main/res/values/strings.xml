@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Congress1</string>
+
+    <string name="hello_world">Hello world!Hello world!\nHello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Bills">Bills</string>
+</resources>

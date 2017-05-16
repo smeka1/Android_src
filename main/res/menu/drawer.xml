@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Compose" android:id="@+id/navigation_item_2" android:icon="@drawable/composea" ></item>
+    <item android:title="Legislators"  android:icon="@drawable/inbox" ></item>
+    <item android:title="Bills" android:icon="@drawable/fa_bills"></item>
+    <item android:title="Committees" android:icon="@drawable/fa_comm"></item>
+     <item android:title="Favorites" android:icon="@drawable/fa_fav"></item>
+
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:title="About Me"/>
+        </menu>
+    </item>
+
+</menu>
